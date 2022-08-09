@@ -40,7 +40,7 @@
     "ts-case-convert": "^2.0.1"
   },
   "peerDependencies": {
-    "@grpc/grpc-js": "^1.5.4",
+    "@grpc/grpc-js": "^1.6.9",
     "@grpc/proto-loader": "^0.6.9",
     "@nestjs/common": "^8.0.0",
     "@nestjs/core": "^8.0.0",
